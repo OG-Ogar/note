@@ -1,0 +1,11 @@
+
+    A Byte (uint8) only goes up to 255. This is fine for standard English (ASCII).
+    A Rune (int32) goes up to ~4 billion. This allows Go to handle emojis (🚀), Chinese characters (你好), and special symbols effortlessly.
+
+ML
+
+Bandwidth is the maximum capacity of a network connection to transfer data, measured in bits per second (bps).
+
+Metacognitive Knowledge: Understanding yourself as a learner (strengths, weaknesses), understanding the task, and knowing which strategies to apply.Metacognitive Regulation: Managing learning through planning (goal setting), monitoring (checking progress), and evaluating (assessing outcomes).
+
+This is mathematically identical to the equation of a line, (y = mx + b), where (m) is the weight (slope) and (b) is the bias (intercept)
