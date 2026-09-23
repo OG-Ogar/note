@@ -5,6 +5,14 @@ def ticket_total(price, quantity):
     print(total)
 amount = ticket_total("7", 3)
 print(amount)
+solution:
+def ticket_total(price, quantity):
+    total = int(price) * quantity
+    return total
+
+amount = ticket_total("7", 3)
+
+print(amount)
 
 Easy to moderate  |  9 minutes  |  15 marks
 Return every score greater than or equal to 50, in the original order. Inputs are lists of integers from 0 to 100. An empty list must return an empty list.
